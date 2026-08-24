@@ -1,6 +1,6 @@
 {
-  "versionCode": 102135,
-  "versionName": "1.2.135",
+  "versionCode": 102136,
+  "versionName": "1.2.136",
   "apkUrl": "https://github.com/naipku/Ln-update/blob/main/GPS%20Tracker.apk",
-  "releaseNotes": "- Cập nhật tính năng mới\n- Sửa lỗi hiển thị"
+  "releaseNotes": "- Hoàn thiện chức năng tiếp tục hành trình\n- Load vị trí lưu cuối cùng khi mở ứng dụng"
 }
