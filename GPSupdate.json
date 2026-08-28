@@ -1,6 +1,6 @@
 {
-  "versionCode": 102136,
-  "versionName": "1.2.136",
+  "versionCode": 102137,
+  "versionName": "1.2.137",
   "apkUrl": "https://github.com/naipku/Ln-update/blob/main/GPS%20Tracker.apk",
-  "releaseNotes": "- Hoàn thiện chức năng tiếp tục hành trình\n- Load vị trí lưu cuối cùng khi mở ứng dụng"
+  "releaseNotes": "- Hỗ trợ Android 7\n- Sửa lỗi không nhớ lịch sử mở file KMZ"
 }
